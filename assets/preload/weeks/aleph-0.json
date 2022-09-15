@@ -1,0 +1,32 @@
+{
+	"storyName": "what",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "aleph",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"aleph-0",
+			"empty",
+			[
+				127,
+				127,
+				127
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Aleph-0"
+}
